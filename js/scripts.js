@@ -22,6 +22,6 @@ else if(A!==B && B!==C && A!==C){
 alert("scalene");
 }
 else {
-alert("NOT a triangle");S
+alert("NOT a triangle");
 }
 }
