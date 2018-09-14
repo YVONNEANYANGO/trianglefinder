@@ -1,27 +1,22 @@
-function triangleType(){
-var lengths = []
+function triangleType() {
 
-lengths.push(parseInt(prompt("enter first side")));
-lengths.push(parseInt(prompt("enter second side")));
-lengths.push(parseInt(prompt("enter third side")));
+var sideA = parseInt(document.getElementById('1').value);
+var sideB = parseInt(document.getElementById('2').value);
+var sideC = parseInt(document.getElementById('3').value);
+var outputs = document.getElementById("outputs");
 
-var A = sides[0];
-var B = sides[1];
-var C = sides[2];
-
-/* console.log(lengths); */
-if (A===B  &&  B===C && A===C){
-alert("equilateral");
+if (sideA===sideB && sideB===sideC && sideA===sideC){
+  outputs.innerHTML ="<p>Equilateral</p>";
 }
 
-else if (A===B  &&  A!==C || A===C  &&  A!==B || B===C  &&  B!==A){
-alert("isosceles");
+else if (sideA===sideB && sideA!==sideC || sideA===sideC && sideA!==sideB || sideB===sideC && sideB!==sideA){
+console.log("Isosceles");
 }
 
-else if(A!==B && B!==C && A!==C){
-alert("scalene");
+else if(sideA!==sideB && sideB!==sideC && sideA!==sideC){
+console.log("Scalene");
 }
 else {
-alert("NOT a triangle");
+console.log("NOT a triangle");
 }
 }
