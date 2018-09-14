@@ -1,6 +1,5 @@
 body {
   text-align: center;
-  text-emphasis-color: black;
   padding-right :5px;
   padding-left: 5px;
   padding-top: 10px;
@@ -13,10 +12,23 @@ body {
   font-style: normal;
   text-overflow: clip;
 }
+.container {
+  background-image :url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGQRwSvpf5iE1bC_Xg16dqOeg3ZVLFFkJJm6JWLn_39bYrqJy8A")
+  background-repeat :no no-repeat;
+  background-size: cover;
+}
 .button {
   width :150px;
   height :50px;
   background :purple;
   text-align: center;
-  text-shadow: 2px 2px coral;
+}
+#heading1 {
+  text-decoration-style: double;
+  font-family: cursive;
+  font-color:brown;
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
 }
