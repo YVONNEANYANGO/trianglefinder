@@ -10,13 +10,18 @@ if (sideA===sideB && sideB===sideC && sideA===sideC){
 }
 
 else if (sideA===sideB && sideA!==sideC || sideA===sideC && sideA!==sideB || sideB===sideC && sideB!==sideA){
-console.log("Isosceles");
+  outputs.innerHTML =("Isosceles")
+}
+else if(sideA>= (sideB+sideC) || sideB>=(sideA+sideC) || sideC>=(sideA+sideB) ){
+  outputs.innerHTML =("Not a triangle")
 }
 
 else if(sideA!==sideB && sideB!==sideC && sideA!==sideC){
-console.log("Scalene");
+  outputs.innerHTML =("Scalene")
 }
-else {
-console.log("NOT a triangle");
-}
+// else {
+// outputs.innerHTML =("Not a triangle")
+// }
+// else if(sideA<= (sideB+sideC) || sideB<=(sideA+sideC) || sideC<=(sideA+sideB) ){
+//   outputs.innerHTML =("Not a triangle")
 }
