@@ -6,7 +6,7 @@ var sideC = parseInt(document.getElementById('3').value);
 var outputs = document.getElementById("outputs");
 
 if (sideA===sideB && sideB===sideC && sideA===sideC){
-  outputs.innerHTML ="<p>Equilateral</p>";
+  outputs.innerHTML =("Equilateral");
 }
 
 else if (sideA===sideB && sideA!==sideC || sideA===sideC && sideA!==sideB || sideB===sideC && sideB!==sideA){
