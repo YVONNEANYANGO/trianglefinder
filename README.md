@@ -1,5 +1,5 @@
 # Triangle Finder
-this is a triangle type finder
+This is a triangle type finder
 ##### Application Name
 Triangle-Tracker Detector
 
