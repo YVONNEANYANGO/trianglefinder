@@ -25,4 +25,5 @@ Phone Number :0707398965
 Email Address :ivonnahbonswuh@gmail.com
 
 ### License
-#### Copyright (c) 2018 
+MIT
+#### Copyright (c) 2018 YVONNE ANYANGO
