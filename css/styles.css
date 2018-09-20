@@ -9,6 +9,9 @@ body {
   font-weight: 600;
   font-stretch: semi-expanded;
   text-overflow: clip;
+  border-style:ridge;
+  border-color:purple;
+  border-width:10px;
 }
 .container {
   background-image :url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGQRwSvpf5iE1bC_Xg16dqOeg3ZVLFFkJJm6JWLn_39bYrqJy8A");
@@ -26,7 +29,14 @@ h1 {
   background-color: lightblue;
   padding: 40px;
   text-align: center;
+  text-shadow: 2px 2px purple;
 }
 h2{
   color: purple;
+}
+p {
+  color :maroon;
+  text-transform: inherit;
+  text-emphasis-style: sesame;
+  font-size: 20px;
 }
