@@ -19,9 +19,9 @@ else if(sideA>= (sideB+sideC) || sideB>=(sideA+sideC) || sideC>=(sideA+sideB) ){
 else if(sideA!==sideB && sideB!==sideC && sideA!==sideC){
   outputs.innerHTML =("Scalene")
 }
-// else {
-// outputs.innerHTML =("Not a triangle")
-// }
+else {
+outputs.innerHTML =("Not a triangle")
+}
 // else if(sideA<= (sideB+sideC) || sideB<=(sideA+sideC) || sideC<=(sideA+sideB) ){
 //   outputs.innerHTML =("Not a triangle")
 }

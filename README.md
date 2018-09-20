@@ -1,4 +1,4 @@
-# Triangle Finder
+#### Triangle Finder
 This is a triangle type finder
 ###### Application Name
 Triangle-Tracker Detector
@@ -9,18 +9,16 @@ or not a triangle.
 ###### Date of current version
 20th April,2018
 ### Setup/Installation Requirements
-* A laptop or smartphone
-* Connected to WiFi or Internet
-* One should have a brower
-* Type in this url("https://yvonneanyango.github.io/trianglefinder/")  
+* Url("https://yvonneanyango.github.io/trianglefinder/")  
 
 ##### Technologies Used
 Languages used
-* HTML
-* CSS
-* javaScript
+*  HTML
+*  CSS
+*  javaScript
 ### Support and contact details
 Phone Number :0707398965
 Email Address :ivonnahbonswuh@gmail.com
 ### License
+MIT License
 #### Copyright (c) 2018
