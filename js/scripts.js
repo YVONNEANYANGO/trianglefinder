@@ -1,3 +1,4 @@
+//Business Logic
 function triangleType() {
 
 var sideA = parseInt(document.getElementById('1').value);
@@ -22,7 +23,4 @@ else if(sideA!==sideB && sideB!==sideC && sideA!==sideC){
 
 else {
 outputs.innerHTML =("Not a triangle")
-}
-// else if(sideA<= (sideB+sideC) || sideB<=(sideA+sideC) || sideC<=(sideA+sideB) ){
-//   outputs.innerHTML =("Not a triangle")
 }
