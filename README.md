@@ -1,6 +1,9 @@
 #### Application Name
 Triangle-Tracker Detector
 
+#### Name of Author
+Yvonne Anyango
+
 #### Brief description of application,
 Triangle-Tracker Detector is an app that helps users to know the types of triangle by entering the three 
 sides of a triangle and the app detects and give the user the name of the triangle whether it's an equilateral,Isosceles,Scalene
