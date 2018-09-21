@@ -1,4 +1,4 @@
-##### Application Name
+#### Application Name
 Triangle-Tracker Detector
 
 #### Brief description of application,
@@ -9,7 +9,7 @@ or not a triangle.
 #### Date of current version
 20th April,2018
 
-### Setup/Installation Requirements
+#### Set-up/Installation Requirements
 * Type in this url ("https://yvonneanyango.github.io/trianglefinder/")  
 
 #### Technologies Used
@@ -31,6 +31,6 @@ length of the third side     |                   |                     |
 Phone Number :0707398965
 Email Address :ivonnahbonswuh@gmail.com
 
-### License
+#### License
 MIT
 #### Copyright (c) 2018 YVONNE ANYANGO
