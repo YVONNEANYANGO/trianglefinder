@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-#### Triangle Finder
-This is a triangle type finder
-###### Application Name
-Triangle-Tracker Detector
-######## Brief description of application,
-Triangle-Tracker Detector is an app that helps users to know the types of triangle by entering the three
-=======
 #### Application Name
 Triangle-Tracker Detector
 
@@ -13,14 +5,13 @@ Triangle-Tracker Detector
 Yvonne Anyango
 
 #### Brief description of application,
-Triangle-Tracker Detector is an app that helps users to know the types of triangle by entering the three 
->>>>>>> 6a82c780856937949936e538a98e672aab506930
+Triangle-Tracker Detector is an app that helps users to know the types of triangle by entering the three
 sides of a triangle and the app detects and give the user the name of the triangle whether it's an equilateral,Isosceles,Scalene
 or not a triangle.
 
 #### Date of current version
 20th April,2018
-<<<<<<< HEAD
+
 ### Setup/Installation Requirements
 * Url("https://yvonneanyango.github.io/trianglefinder/")  
 
@@ -29,21 +20,6 @@ Languages used
 *  HTML
 *  CSS
 *  javaScript
-### Support and contact details
-Phone Number :0707398965
-Email Address :ivonnahbonswuh@gmail.com
-### License
-MIT License
-#### Copyright (c) 2018
-=======
-
-#### Set-up/Installation Requirements
-* Type in this url ("https://yvonneanyango.github.io/trianglefinder/")  
-
-#### Technologies Used
-* HTML
-* CSS
-* javaScript
 
 #### Behavior Driven Development (BDD)
 Possible Occurence           |   Test Values     |   Expected Results  |
@@ -62,4 +38,4 @@ length of the third side     |                   |                     |
 #### License
 MIT
 #### Copyright (c) 2018 YVONNE ANYANGO
->>>>>>> 6a82c780856937949936e538a98e672aab506930
+
